@@ -1,4 +1,12 @@
-## Hi there 👋
+## Salesiáni Pardubice
+
+🙋‍♀️ Konejte dobro a konejte ho mnoho!
+
+
+### Asstes
+
+- logotypy: ToDo
+
 
 <!--
 
