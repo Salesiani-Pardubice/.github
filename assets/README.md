@@ -1,2 +1,0 @@
-# Logotypy SDB Pardubice
-
