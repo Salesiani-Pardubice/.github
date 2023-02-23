@@ -5,7 +5,7 @@ Konejte dobro a konejte ho mnoho!
 
 ### Asstes
 
-- [Logotypy salesiánského díla v Pardubicích](/assets/logotypes/README.md)
+- [Logotypy salesiánského díla v Pardubicích](/assets/logotypes/)
 
 ### Rychlé nástroje
 
