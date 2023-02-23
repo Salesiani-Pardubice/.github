@@ -1,12 +1,22 @@
 ## Salesiáni Pardubice
 
-🙋‍♀️ Konejte dobro a konejte ho mnoho!
+Konejte dobro a konejte ho mnoho!
 
 
 ### Asstes
 
-- logotypy: ToDo
+- [Logotypy salesiánského díla v Pardubicích](/assets/logotypes/README.md)
 
+### Rychlé nástroje
+
+- [Club Parser](https://github.com/Salesiani-Pardubice/club-parser) - skript pro rozdělení děcek do kroužků
+
+### Interní aplikace
+
+- [web-template](https://github.com/Salesiani-Pardubice/web-template) - šablona pro webovou prezentaci pardubických salesiánů
+- [SDB sheet visualizer](https://github.com/Salesiani-Pardubice/SDBsheetVisualiser) - jednoduchý program pro efektivnější přehled kroužků
+- [bohosluzby-services (Loran)](https://github.com/Salesiani-Pardubice/bohosluzby-services) - rozšíření pro webové stránky, které umožňuje dynamicky renderovat mše svaté s intencemi a ohlášky pro zobrazení na webu a pro tisk
+- [portal SDB](https://github.com/Salesiani-Pardubice/portalsdb) - interní webový portál pro účely Salesiánů Pardubice
 
 <!--
 
