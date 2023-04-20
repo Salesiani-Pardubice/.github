@@ -16,7 +16,8 @@ Konejte dobro a konejte ho mnoho!
 - [web-template](https://github.com/Salesiani-Pardubice/web-template) - šablona pro webovou prezentaci pardubických salesiánů
 - [SDB sheet visualizer](https://github.com/Salesiani-Pardubice/SDBsheetVisualiser) - jednoduchý program pro efektivnější přehled kroužků
 - [bohosluzby-services (Loran)](https://github.com/Salesiani-Pardubice/bohosluzby-services) - rozšíření pro webové stránky, které umožňuje dynamicky renderovat mše svaté s intencemi a ohlášky pro zobrazení na webu a pro tisk
-- [portal SDB](https://github.com/Salesiani-Pardubice/portalsdb) - interní webový portál pro účely Salesiánů Pardubice
+- [Salošká Wiki](https://github.com/Salesiani-Pardubice/wiki) - knihovna všech důležitých odkazů a návodů na jednom místě
+- [portal SDB](https://github.com/Salesiani-Pardubice/portalsdb) - interní webový portál pro účely Salesiánů Pardubice - *vývoj ukončen*
 
 <!--
 
